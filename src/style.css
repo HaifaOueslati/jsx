@@ -1,0 +1,12 @@
+.title {
+    font-size: medium;
+}
+.red {
+    color: red;
+}
+.App {
+    text-align: center;
+  }
+.img1, .img2 {
+    width: 350px;
+}
